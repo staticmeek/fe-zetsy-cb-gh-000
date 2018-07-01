@@ -7,9 +7,7 @@ header a {
     color: rgb(152,173,166);
     text-decoration: none;
 }
-*{
-	color: #97aca5
-}
+
 body {
 	background: #F3EBE9;
 	font-size: 100%;
@@ -25,6 +23,6 @@ body {
 
 /* Write all remaining styles here */
 #a .zesty {
-	
-	
+
+
 }
