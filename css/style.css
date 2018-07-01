@@ -3,6 +3,10 @@
 /* link the web font used for the level 1 heading here */
 @import url('https://fonts.googleapis.com/css?family=Libre+Baskerville');
 /*////////// Global Styles //////////*/
+header a {
+    color: rgb(152,173,166);
+    text-decoration: none;
+}
 *{
 	color: #97aca5
 }
@@ -20,3 +24,7 @@ body {
 }
 
 /* Write all remaining styles here */
+#a .zesty {
+	
+	
+}
