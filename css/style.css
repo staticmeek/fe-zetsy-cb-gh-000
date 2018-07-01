@@ -3,7 +3,9 @@
 /* link the web font used for the level 1 heading here */
 @import url('https://fonts.googleapis.com/css?family=Libre+Baskerville');
 /*////////// Global Styles //////////*/
-
+*{
+	color: #97aca5
+}
 body {
 	background: #F3EBE9;
 	font-size: 100%;
